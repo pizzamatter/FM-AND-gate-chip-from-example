@@ -13,7 +13,7 @@ It's just an AND gate
 
 ## How to test
 
-Test all combinations of A and B
+Test all combinations of A, B
 
 ## External hardware
 
